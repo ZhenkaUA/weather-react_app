@@ -1,0 +1,10 @@
+.Location {
+    padding: 2px 16px;
+    border-width: 0.5px;
+    border-color: rgba(134, 133, 133, 0.89);
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #efefef;
+    float: right;
+    color: rgba(46, 45, 45, 0.89);
+  }

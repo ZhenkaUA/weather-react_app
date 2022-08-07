@@ -1,0 +1,10 @@
+.temperature {
+    font-size: 34px;
+    vertical-align: middle;
+  }
+  
+  .unit {
+    font-size: 14px;
+    position: relative;
+    top: -6px;
+  }
